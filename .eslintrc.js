@@ -34,6 +34,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'arrow-parens': 'off',
     'react-hooks/rules-of-hooks': 'error',
-    'react-hooks/exhaustive-deps': 'warn'
+    'react-hooks/exhaustive-deps': 'warn',
+    'object-curly-newline': 'off'
   },
 };
